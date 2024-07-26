@@ -33,4 +33,4 @@ print(html)
 html_path='D:/PROGRAMING/Programing/1.4_Python_Scraping/linkedin_scraping/1.html'
 page_fun=open(html_path,'w',encoding='utf-8')
 page_fun.write(html)
-page_fun.close()
+page_fun.close() 
